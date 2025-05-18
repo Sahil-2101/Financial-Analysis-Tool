@@ -41,14 +41,15 @@ An advanced, modular Python-based tool for comprehensive financial data analysis
 ## 📁 Project Structure
 
 Financial_Analysis_Tool/
-│
-├── app.py # Main app entry point
-├── config.py # Configuration settings
-├── requirements.txt # Python dependencies
-│
-├── managers/
-│ ├── stock_manager.py # Handles stock data retrieval
-│ ├── news_manager.py # Fetches & processes financial news
-│ ├── nlp_manager.py # Performs sentiment analysis
-│ ├── modeling_manager.py # Builds & evaluates ML models
-│ └── portfolio_optimizer.py # Runs portfolio optimization
+
+│  
+├── app.py # Main app entry point  
+├── config.py # Configuration settings  
+├── requirements.txt # Python dependencies  
+│  
+├── managers/  
+│ ├── stock_manager.py # Handles stock data retrieval  
+│ ├── news_manager.py # Fetches & processes financial news  
+│ ├── nlp_manager.py # Performs sentiment analysis  
+│ ├── modeling_manager.py # Builds & evaluates ML models  
+│ └── portfolio_optimizer.py # Runs portfolio optimization  
